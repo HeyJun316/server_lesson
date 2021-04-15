@@ -1,0 +1,300 @@
+   33  ls
+   34  cd /vagrant
+   35  ls
+   36  pwd
+   37  mkdir -p server_lesson/linux_practice/public
+   38   mkdir -p server_lesson/linux_practice/public
+   39  ls
+   40  cd server_lesson/
+   41  ls
+   42  ls server_lesson server_lessols server_lesson server_lesson/linux_practicen/linux_practice
+   43  ls server_lesson server_lesson/linux_practice
+   44  cd ..
+   45  ls server_lesson server_lesson/linux_practice
+   46  pwd
+   47  touch server_lesson/linux_practice/public/index.php
+   48  ls server_lesson/linux_practice/public
+   49  cd /vagrant/server_lesson && ls
+   50  cd /vagrant/server_lesson/linux_practice/public
+   51  ls
+   52  cd /vagrant/server_lesson/linux_practice/public
+   53  ls
+   54  cd server_lesson/
+   55  ls
+   56  cd linux_practice
+   57  ls
+   58  cd public
+   59  ls
+   60   cd /vagrant/server_lesson/linux_practice/public
+   61  cd index.php index_bk.php
+   62  ls
+   63  cp index.php index_bk.php
+   64  ls
+   65  cd ..
+   66  ls
+   67  cp -r public tmp
+   68  ls
+   69  ls ./ public tmp
+   70  ls
+   71  cat tmp
+   72  cd tmp && ls 
+   73  cd ..
+   74  ls ./public tmp
+   75  cd /vagrant
+   76  ls
+   77  cd /
+   78  ls
+   79  find vagrant
+   80  cd /vagrant
+   81  cd /
+   82  ls
+   83  exit
+   84  ls
+   85  ls /
+   86  ls
+   87  pwd
+   88  cd ..
+   89  ls
+   90  mv vagrant /
+   91  ls
+   92  mv vagrant/ /
+   93  mv vagrant/ / -f
+   94  ls
+   95  cd vagrant/
+   96  ls
+   97  mv server_lesson/linux_practice server_lesson/linux_practice1
+   98  ls
+   99  cd server_lesson/ && ls
+  100  mv ./linux_practice2 ./server_lesson
+  101  ks
+  102  cd ..
+  103  ls
+  104  cd && ls
+  105  cd server_lesson/ && ls
+  106  ls
+  107   mv server_lesson/linux_practice server_lesson/linux_practice1
+  108  cd ..
+  109   mv server_lesson/linux_practice server_lesson/linux_practice1
+  110  cd server_lesson/
+  111  mkdir linux_practice2 linux_practice3
+  112  ls
+  113  cd linux_practice1
+  114  ls
+  115  cd tmp
+  116  ls 
+  117  rm *_bk.php
+  118  ls
+  119  cd ..
+  120  ls
+  121  cd ..
+  122  ls 
+  123  cd ..
+  124  ls
+  125  pwd
+  126  rm server_lesson/first.txt
+  127  ls
+  128  cd server_lesson/ && ls
+  129  cd .
+  130  cd ..
+  131  rm -r linux_practice3
+  132  ls
+  133  cd server_lesson/
+  134  ls
+  135  rm -r linux_practice3
+  136  ls
+  137  cd ..
+  138  ls server_lesson/
+  139  ls
+  140  pwd
+  141  ls
+  142  pwd
+  143  cd / && ls
+  144  cd home && cat Vagrant
+  145  cd home
+  146  exit
+  147  sudo yum -y update kernel
+  148  exit
+  149  ls
+  150  cd ../../
+  151  ls
+  152  exit
+  153  ls
+  154  cd server_lesson && ls 
+  155  ls 
+  156  ls /
+  157  cd /vagrant 
+  158  ls
+  159  pwd
+  160  ls /
+  161  pwd
+  162  cd /vagrant 
+  163  pwd
+  164  cd usr
+  165  cd /vagrant/usr
+  166  cd /usr
+  167  pwd
+  168  cd /vagrant 
+  169  ks
+  170  ls
+  171  mkdir server_lesson && cd server_lesson
+  172  ls l
+  173  ls -l
+  174  cd ..
+  175  ls
+  176  cd home
+  177  ls
+  178  vagrant
+  179  cd vagrant
+  180  ls
+  181  ls -l
+  182  rmdir server_lesson/
+  183  rm -r server_lesson/
+  184  ls
+  185  cd /vagrant
+  186  ;s
+  187  ls
+  188  cd server_lesson/
+  189  git init
+  190  touch first.txt
+  191  ls
+  192  cd /vagrant 
+  193  mkdir -p server_lesson/linux_practice/public
+  194  ls server_lesson server_lesson/linux_practice
+  195  cd /vagrant 
+  196  touch server_lesson/linux_practice/public/index.php
+  197  ls server_lesson/linux_practice/public
+  198  cd /vagrant/server_lesson && ls
+  199  cd linux_practice/public
+  200  cp index.php index_bk.php
+  201  ls
+  202  cd /vagrant/server_lesson/linux_practice
+  203  cp -r public tmp
+  204  ls ./ public tmp
+  205  cd /vagrant 
+  206  mv server_lesson/linux_practice server_lesson/linux_practice1
+  207  mkdir linux_practice2 linux_practice3
+  208  mv ./linux_practice2 ./server_lesson
+  209  ls
+  210  cd /vagrant/server_lesson/linux_practice1/tmp/
+  211  rm *_bk.php
+  212  cd /vagrant 
+  213  rm server_lesson/first.txt
+  214  rm -r linux_practice3
+  215  ls server_lesson
+  216  cd /vagrant/server_lesson
+  217  echo '# サーバレッスン' > README.md
+  218  echo 'Linuxプラクティス' >> README.md
+  219  echo '-----------------' >> README.md
+  220  car README.md 
+  221  cat README.md 
+  222  echo 'aaa' > README.md
+  223  cat README.md 
+  224  echo '# サーバレッスン' > README.md && echo 'Linuxプラクティス' >> README.md && echo '-----------------' >> README.md && cat README.md
+  225  cd /vagrant/server_lesson
+  226  ls 
+  227  vi README.md 
+  228  cat README.md 
+  229  ls
+  230  cd linux_practice1
+  231  ls
+  232  cat public 
+  233  ls public
+  234  ls tmp
+  235  cd ..
+  236  la
+  237  ls
+  238  cd linux_practice2
+  239  ls
+  240  cd ..
+  241  ls
+  242  ls -l
+  243  ls -a
+  244  git commit -m 'server_lesson task1'
+  245  git add .
+  246  git commit -m 'server_lesson task1'
+  247  git remote add origin https://github.com/HeyJun316/server_lesson.git
+  248  git branch
+  249  git push -u origin master
+  250  ls
+  251  cd linux_practice2
+  252  cd ..
+  253  tree server_lesson/
+  254  ls
+  255  tree -d server_lesson/
+  256   yum install tree
+  257  cd ..
+  258   yum install tree
+  259  cd /
+  260   yum install tree
+  261  sudo yum install tree
+  262  tree
+  263  ls
+  264  cd vagrant/
+  265  tree
+  266  ls -l
+  267  ls -a
+  268  cd server_lesson/
+  269  ls -a
+  270  git commit -m 'install tree'
+  271  git add .
+  272  git commit -m 'install tree'
+  273  ls
+  274  cd linux_practice2/ && mkdir documents && cd documents
+  275  touch gizumo{01..50}.md
+  276  ls
+  277  cd .. && mkdir trash && mv gizumo{20..40}.md trash
+  278  ls
+  279  cd documents/
+  280  ls
+  281  mv gizumo{20..40}.md trash
+  282  mv gizumo{20..40}.md /../trash
+  283  mv gizumo{20..40}.md ../trash
+  284  ls
+  285  cd ..
+  286  ls
+  287  ls trash
+  288  mkdir .gitignore
+  289  ls
+  290  ls -a
+  291  git status
+  292  cd ..
+  293  git add
+  294  git add . 
+  295  ls
+  296  git sutatu
+  297  git status
+  298  git commit -m 'new 50 dir && .gitignore'
+  299  ls -a
+  300  vi .gitignore
+  301  ls -a
+  302  ls 
+  303  git linux_practice2
+  304  ls
+  305  cd linux_practice2
+  306  ls
+  307  cd ..
+  308  ls -a
+  309  vi .gitignore
+  310  cat .gitignore
+  311  history 300
+  312  ls
+  313  rm un
+  314  ls
+  315  cd ..
+  316  ls
+  317  cd server_lesson/
+  318  ls
+  319  cd linux_practice2
+  320  ls
+  321  cat exec_command.log 
+  322  rm exec_command.log 
+  323  ls
+  324  touch exec_commnad.log && history300 > exec_command.log
+  325  history 300
+  326  ls
+  327  cat exec_comm.log
+  328  rm exec_commnad.log
+  329  ls
+  330  cat exec_command.log 
+  331  cat exec_command.log
+  332  history 300 > exec_command.log 
